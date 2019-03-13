@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Performance Analysis–Excel (2010) automation : how to create graphs from a Perfmon-generated CSV file–Essay#1
+title: Performance Analysis–Excel (2010) automation - how to create graphs from a Perfmon-generated CSV file–Essay#1
 date: 2013-01-28 19:30
 author: sammykrosoft
 comments: true

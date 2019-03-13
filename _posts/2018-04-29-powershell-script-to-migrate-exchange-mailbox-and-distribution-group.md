@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerShell scripts to Migrate Exchange Mailbox and Distribution Group Send As, Full Access and Send On Behalf Permissions into a CSV file–Part I : Export Script
+title: PowerShell scripts to Migrate Exchange Mailbox and Distribution Group Send As, Full Access and Send On Behalf Permissions into a CSV file–Part I - Export Script
 date: 2018-04-29 22:42
 author: sammykrosoft
 comments: true

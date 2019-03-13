@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange (2007-2010-2013) – Error when trying to Enable-ExchangeCertificate: PrivateKeyMissing – or – how to ensure that when you import an issued certificate you get the private key generated
+title: Exchange (2007-2010-2013) – Error when trying to Enable-ExchangeCertificate - PrivateKeyMissing – or – how to ensure that when you import an issued certificate you get the private key generated
 date: 2014-04-15 08:24
 author: sammykrosoft
 comments: true

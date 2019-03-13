@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pure PowerShell Post–Variation From Previous Post: Commented Sample Using PowerShell Progress Bar With Secondary Progress Bar …
+title: Pure PowerShell Post–Variation From Previous Post - Commented Sample Using PowerShell Progress Bar With Secondary Progress Bar …
 date: 2017-10-30 13:45
 author: sammykrosoft
 comments: true

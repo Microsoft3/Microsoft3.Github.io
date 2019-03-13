@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News: Check out and download Exchange 2016 preview !
+title: News - Check out and download Exchange 2016 preview !
 date: 2015-07-22 14:28
 author: sammykrosoft
 comments: true

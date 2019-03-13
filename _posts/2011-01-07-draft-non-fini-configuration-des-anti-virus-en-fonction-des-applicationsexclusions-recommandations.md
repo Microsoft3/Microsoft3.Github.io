@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft (non fini): Configuration des Anti-Virus en fonction des applications–Exclusions, recommandations
+title: Draft (non fini) - Configuration des Anti-Virus en fonction des applications–Exclusions, recommandations
 date: 2011-01-07 10:48
 author: sammykrosoft
 comments: true

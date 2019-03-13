@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awareness update: Exchange 2010 SP3 RU8 – RU8 V2 is out !
+title: Awareness update - Exchange 2010 SP3 RU8 – RU8 V2 is out !
 date: 2014-12-11 10:04
 author: sammykrosoft
 comments: true

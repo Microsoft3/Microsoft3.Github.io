@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powershell V2 : Links for Multi-threading techniques
+title: Powershell V2 - Links for Multi-threading techniques
 date: 2012-10-24 17:16
 author: sammykrosoft
 comments: true

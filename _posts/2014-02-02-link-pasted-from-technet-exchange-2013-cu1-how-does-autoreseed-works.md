@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link + Pasted from Technet - Exchange 2013 (>=CU1) : How does Autoreseed works
+title: Link + Pasted from Technet - Exchange 2013 (>=CU1) - How does Autoreseed works
 date: 2014-02-02 19:09
 author: sammykrosoft
 comments: true

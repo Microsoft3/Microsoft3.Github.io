@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next : Exchange how-to procedures
+title: Next - Exchange how-to procedures
 date: 2013-07-07 15:49
 author: sammykrosoft
 comments: true

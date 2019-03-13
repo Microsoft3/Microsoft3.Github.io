@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: TIP - Administration Exchange 2007 et PowerShell V2 Integrated scripting environment (ISE)
 date: 2009-04-01 07:05
 author: sammykrosoft
 comments: true
-categories: [Exchange 2007, Exchange Server 2007, ISE, language, langue, Pages, Powershell, powershell V2, scripting, Uncategorized, Windows 2008, Windows Server 2008]
+categories: [EExchange Server 2007, ISE, language, langue, Pages, Powershell, powershell V2, scripting]
 ---
 <P>Il est possible d’installer l’environnement <A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=c913aeab-d7b4-4bb1-a958-ee6d7fe307bc&amp;displaylang=en" target=_blank mce_href="http://www.microsoft.com/downloads/details.aspx?FamilyID=c913aeab-d7b4-4bb1-a958-ee6d7fe307bc&amp;displaylang=en">PowerShell V2 CTP3 (pour Community Technology Preview 3 càd la dernière version “pre-beta”)</A> et l’utiliser pour scripter et administrer votre environnement Exchange 2007. </P>
 <P>Cette console facilite grandement la création de scripts (via la coloration synthaxique dans l’éditeur et l’intellisense) et est beaucoup plus fun que la console noire et blanche toute simple de PowerShell V1 :-)</P>

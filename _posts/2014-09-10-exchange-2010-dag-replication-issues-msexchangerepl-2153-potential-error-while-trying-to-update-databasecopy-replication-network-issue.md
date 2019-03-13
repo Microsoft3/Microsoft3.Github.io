@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange 2010 DAG replication issues : MSExchangeREPL 2153 + potential error while trying to Update-DatabaseCopy = Replication Network issue
+title: Exchange 2010 DAG replication issues - MSExchangeREPL 2153 + potential error while trying to Update-DatabaseCopy = Replication Network issue
 date: 2014-09-10 05:31
 author: sammykrosoft
 comments: true

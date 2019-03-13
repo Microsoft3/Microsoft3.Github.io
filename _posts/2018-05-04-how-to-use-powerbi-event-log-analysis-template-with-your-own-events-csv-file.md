@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To: Use a PowerBI template to analyze Event Logs exported as a CSV file
+title: How To - Use a PowerBI template to analyze Event Logs exported as a CSV file
 date: 2018-05-04 20:08
 author: sammykrosoft
 comments: true

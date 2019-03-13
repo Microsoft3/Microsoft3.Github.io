@@ -30,9 +30,7 @@ This command is leveraging MS-DOS TaskList.exe command, and we use the “Find�
 
 The output will look like the below:
 
-<a href="../assets/media/2019/02/Fig-1.png"><img src="..\assets\media\2019\02/Fig-1.png" alt="" width="624" height="37" class="alignnone size-full wp-image-5495" /></a>
-
-![Fig 1](..\assets\media\2019\02Fig-1.png)
+![Figure 1](/assets/media/2019/02/Fig-1.png)
 
 <span>Fig. 1 - Outlook PID = 4028</span>
 
@@ -45,14 +43,16 @@ The output will look like the below:
 &nbsp;
 
 Run the below command:
-<pre>netstat-ano -p TCP | find /I “PID_Found_Above”</pre>
+
+```powershell
+netstat-ano -p TCP | find /I "PID_Found_Above"
+```
+
 This command leverages Netstat with the -a -n -o options combined into one -ano parameter, and focussing on the TCP protocol. Then we use the “Find” command after a pipe to just output the line that include our process ID that we found on Step 1.
 
-<a href="../assets/media/2019/02/Fig-2.png"><img src="../assets/media/2019/02/Fig-2.png" alt="" width="620" height="54" class="alignnone size-full wp-image-5505" /></a>
+![Figure 2](/assets/media/2019/02/Fig-2.png)
 
-<span>Fig. 2 – 2 entries, one for Mailbox connection, one for Directory connection</span>
-
-<span> </span>
+<i>Fig. 2 – 2 entries, one for Mailbox connection, one for Directory connection</i>
 
 <span>Here I see 2 entries:</span>
 
@@ -80,9 +80,10 @@ This means I have 2 network connections that Outlook is making to my Exchange se
  	<li><strong>Exchange Mail which session type is Foreground as well</strong></li>
  	<li>And another Exchange Directory which session type is “Background”</li>
 </ul>
-<span> <a href="../assets/media/2019/02/Fig-3.png"><img src="../assets/media/2019/02/Fig-3.png" alt="" width="624" height="88" class="alignnone size-full wp-image-5515" /></a></span>
 
-<span>Fig.3 – Outlook Connection Status view</span>
+![Figure 3](/assets/media/2019/02/Fig-3.png)
+
+<i>Fig.3 – Outlook Connection Status view</i>
 
 <span> </span><span> </span>
 
@@ -90,7 +91,7 @@ This means I have 2 network connections that Outlook is making to my Exchange se
 
 <span> </span><strong><span>Note</span></strong><span>: the TCPView tool mentioned above enabled you to get the application name and its opened Network connections a bit faster, here’s an example here:</span>
 
-<a href="https://msdnshared.blob.core.windows.net/media/2019/02/Fig-4.png"><img src="https://msdnshared.blob.core.windows.net/media/2019/02/Fig-4.png" alt="" width="624" height="143" class="alignnone size-full wp-image-5525" /></a>
+![Figure 1](/assets/media/2019/02/Fig-4.png)
 
 <span>Fig. 4 - TCPView graphical user friendly interface to achieve the same as the above 2 steps, in one tool</span>
 

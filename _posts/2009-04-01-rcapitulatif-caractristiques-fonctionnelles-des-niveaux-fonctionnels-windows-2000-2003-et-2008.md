@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: Récapitulatif - Caractéristiques fonctionnelles des niveaux fonctionnels Windows 2000, 2003 et 2008
 date: 2009-04-01 04:53
 author: sammykrosoft
 comments: true
-categories: [Active Directory, AD, for&#234;t, mode natif, natif, niveau fonctionnel, Uncategorized, Windows 2000, Windows 2003, Windows 2008, Windows Server 2000, Windows Server 2003, Windows Server 2008]
+categories: [Active Directory, AD]
 ---
 <p>A l&rsquo;occasion de l&rsquo;installation d&rsquo;une for&ecirc;t Windows 2008, la console graphique d&rsquo;installation r&eacute;sume les caract&eacute;ristiques de chaque niveau fonctionnels de for&ecirc;t Windows au moment du choix du niveau fonctionnel du domaine. <p>Je les reprends ici pour r&eacute;f&eacute;rences futures, cela &eacute;vitera de se replonger dans les docs &agrave; tout bout de champ quand on recherche ce genre d&rsquo;infos ( c&rsquo;est un peu le but de mon Blog :-) ) :</p><p>A noter que les descriptions des niveaux fonctionnels Windows sont reprises avec tous les d&eacute;tails dans l&rsquo;aide de Windows Server 2008 (lien <em>en savoir plus sur les <u>niveaux fonctionnels de for&ecirc;t et de domaine</u></em> dans la fen&ecirc;tre d&rsquo;installation, ou plus directement le fichier d&rsquo;aide HTML compil&eacute; <strong>ad_ds.chm</strong> dans le r&eacute;pertoire <strong>%systemroot%helpmui40C</strong> &ndash;&gt; 040C pour le Fran&ccedil;ais si vous avez install&eacute; Windows 2008 en Fran&ccedil;ais ou le Language Pack Fran&ccedil;ais).</p><meta content="fr" http-equiv="Content-Language"><style type="text/css">
 .style1 {

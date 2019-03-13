@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bookmark : Exchange Mailbox Storage Calculator download link
+title: Bookmark - Exchange Mailbox Storage Calculator download link
 date: 2010-09-17 08:33
 author: sammykrosoft
 comments: true

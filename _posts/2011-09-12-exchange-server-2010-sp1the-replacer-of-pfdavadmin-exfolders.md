@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange Server 2010 SP1–The replacer of PFDAVAdmin : ExFolders
+title: Exchange Server 2010 SP1–The replacer of PFDAVAdmin - ExFolders
 date: 2011-09-12 07:15
 author: sammykrosoft
 comments: true

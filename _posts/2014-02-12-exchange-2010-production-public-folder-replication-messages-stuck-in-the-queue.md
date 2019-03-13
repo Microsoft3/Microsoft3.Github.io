@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange 2010 - Production : Public Folder replication messages stuck in the queue
+title: Exchange 2010 - Production - Public Folder replication messages stuck in the queue
 date: 2014-02-12 08:49
 author: sammykrosoft
 comments: true

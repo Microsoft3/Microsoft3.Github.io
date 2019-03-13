@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link : Content Transformation Services + Interaction Management Services – CTS – (Business Logic layer in Exchange 2013)
+title: Link - Content Transformation Services + Interaction Management Services – CTS – (Business Logic layer in Exchange 2013)
 date: 2014-02-02 17:10
 author: sammykrosoft
 comments: true

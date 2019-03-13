@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skype for Business and Outlook : Presence information on Outlook – how to get it ? Answer is here (with “the Ugly, the Bad and the Good” illustration scenarios)
+title: Skype for Business and Outlook - Presence information on Outlook – how to get it ? Answer is here (with “the Ugly, the Bad and the Good” illustration scenarios)
 date: 2016-08-15 00:32
 author: sammykrosoft
 comments: true

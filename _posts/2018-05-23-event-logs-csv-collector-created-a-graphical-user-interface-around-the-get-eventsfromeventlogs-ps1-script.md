@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event Logs CSV Collector: Created a Graphical User Interface around the Get-EventsFromEventLogs.ps1 script
+title: Event Logs CSV Collector - Created a Graphical User Interface around the Get-EventsFromEventLogs.ps1 script
 date: 2018-05-23 11:26
 author: sammykrosoft
 comments: true

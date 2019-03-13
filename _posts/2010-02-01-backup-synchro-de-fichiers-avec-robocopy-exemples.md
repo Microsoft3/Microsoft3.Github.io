@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Backup / Synchro de fichiers avec Robocopy : exemples …
+title: Backup / Synchro de fichiers avec Robocopy - exemples …
 date: 2010-02-01 07:12
 author: sammykrosoft
 comments: true

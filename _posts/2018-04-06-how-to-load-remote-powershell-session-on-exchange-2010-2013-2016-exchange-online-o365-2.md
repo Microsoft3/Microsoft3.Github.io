@@ -4,7 +4,7 @@ title: How-to – Load Remote Exchange PowerShell Session on Exchange 2010, 2013
 date: 2018-04-06 22:14
 author: sammykrosoft
 comments: true
-categories: [Exchange, Exchange 2010, Exchange 2013, exchange 2016, Exchange Online, Exchange Server 2010, Exchange Server 2013, Exchange Server 2016, Office 365, ports, Powershell, powershell, Remote Powershell, Sam Drey, Samuel Drey, TCP Ports]
+categories: [Exchange, Remote Powershell]
 ---
 <span style="font-size: 22pt">1-Intro</span>
 

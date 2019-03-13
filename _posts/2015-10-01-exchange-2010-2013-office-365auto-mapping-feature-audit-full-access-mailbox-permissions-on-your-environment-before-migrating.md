@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange 2010, 2013, Office 365–Auto Mapping Feature: Audit Full Access Mailbox permissions on your environment before migrating
+title: Exchange 2010, 2013, Office 365–Auto Mapping Feature - Audit Full Access Mailbox permissions on your environment before migrating
 date: 2015-10-01 19:19
 author: sammykrosoft
 comments: true

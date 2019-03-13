@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bookmark–Managing AD with Powershell : what do you need to install on your servers and workstations ?
+title: Bookmark–Managing AD with Powershell - what do you need to install on your servers and workstations ?
 date: 2011-03-18 04:39
 author: sammykrosoft
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange Server 2010–Move Mailbox Request : why the move requests stay in the “Move Request” list after the move ?
+title: Exchange Server 2010–Move Mailbox Request - why the move requests stay in the “Move Request” list after the move ?
 date: 2011-06-10 08:26
 author: sammykrosoft
 comments: true

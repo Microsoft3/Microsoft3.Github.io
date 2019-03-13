@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 2008 Core : Activer un serveur W2K8 Core
+title: Windows 2008 Core - Activer un serveur W2K8 Core
 date: 2009-03-23 05:39
 author: sammykrosoft
 comments: true

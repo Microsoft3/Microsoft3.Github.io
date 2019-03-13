@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exchange 2013 Mailflow – complement to Richard Schwendiman’s schema : Get-ReceiveConnector and GUI correspondings – showing Exchange 2013 Receive Connectors and their default configuration values…
+title: Exchange 2013 Mailflow – complement to Richard Schwendiman’s schema - Get-ReceiveConnector and GUI correspondings – showing Exchange 2013 Receive Connectors and their default configuration values…
 date: 2014-06-17 08:56
 author: sammykrosoft
 comments: true

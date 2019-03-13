@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-To procedure – Exchange 2010 – all SPs – After CAS array setup : do not forget to update this Database property !
+title: How-To procedure – Exchange 2010 – all SPs – After CAS array setup - do not forget to update this Database property !
 date: 2013-07-13 07:39
 author: sammykrosoft
 comments: true
