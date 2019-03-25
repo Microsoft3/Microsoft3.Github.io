@@ -46,7 +46,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 # Disqus Comments

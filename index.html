@@ -8,7 +8,9 @@ layout: default
   <p class="author">
     <span class="date">{{ post.date }}</span>
   </p>
-
+  <div class="content">
+    {{ post.content | strip_html | truncatewords:55}}
+  </div>
 {% endfor %}
 
 <!-- Pagination links -->
