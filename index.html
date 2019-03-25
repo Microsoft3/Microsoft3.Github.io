@@ -11,12 +11,13 @@ layout: default
   </div>
   <br>
   <p class="author">
-    <span class="date">{{ post.date | date:'%B %d, %Y'}}</span>
+    <span class="date">{{ post.date | date:'%B %-d, %Y'}}</span>
   </p>
   <hr>
 {% endfor %}
 
 <!-- Pagination links -->
+<br><br>
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
